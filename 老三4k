@@ -37,9 +37,17 @@
       "type": 3,
       "api": "http://183.136.134.152:250/lib/drpy2.min.js",
       "ext": "http://183.136.134.152:250/lib/bili.js"
+    },
+
+    {
+      "key": "🐍 猎手 | PY",
+      "name": "🐍 猎手 | PY",
+      "type": 3,
+      "api": "http://114.66.55.28:4816/api.php/app/index_video?token=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
-
-
 
 
   ],
