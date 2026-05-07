@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "默认仓库",
-      "url": "http://zhuyun.shanhaiguanwu.top/api/main/init?t=1778144154&nonce=28203e5c721844579d6ec72be45a079e&t=1778144154&sign=61b4b67bfc33e47c7fe1dc81981e55756c47e6323879ec871a50d9b2d452250e&time=time&token=0000&app_id=10000&apk_mark=lvdou-box-ui-7&version=4.0.0&package_name=com.zhuyun.tv.test"
+      "url": "http://zhuyun.shanhaiguanwu.top/api/index/store?id=1&appid=10000&t=1778144156&nonce=9517c284811049a7905338274c230917&package_name=com.zhuyun.tv.test"
     },
     {
       "name": "🐔4k",
