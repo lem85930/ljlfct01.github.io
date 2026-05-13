@@ -2,7 +2,13 @@
   "spider": "https://mpimg.cn/down.php/f2d196f8d411313f00000f24e257b6e6.jar",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
-
+    {
+      "name": "4K线路",
+      "type": 0,
+      "url": "https://mpimg.cn/text.php?hash=b597cc40a0f594b8110eca37e0dce439",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
 
   ],
   "sites": [
