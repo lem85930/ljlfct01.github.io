@@ -308,8 +308,42 @@
       "name": "极速4k",
       "type": 1,
       "url": "https://xy.183933.xyz/xiayede.php?key=hy1966&url="
+    },
+       {
+      "name": "极速4k1",
+      "type": 1,
+      "url": "http://154.8.225.238:9991//api/index?parsesId=1&appid=10000&videoUrl="
+    },
+      {
+      "name": "极速4k2",
+      "type": 1,
+      "url": "http://154.8.225.238:9991//api/index?parsesId=2&appid=10000&videoUrl="
+    },
+      {
+      "name": "极速4k3",
+      "type": 1,
+      "url": "http://154.8.225.238:9991//api/index?parsesId=3&appid=10000&videoUrl="
+    },
+      {
+      "name": "极速4k4",
+      "type": 1,
+      "url": "http://154.8.225.238:9991//api/index?parsesId=4&appid=10000&videoUrl="
+    },
+      {
+      "name": "极速4k5",
+      "type": 1,
+      "url": "http://154.8.225.238:9991//api/index?parsesId=5&appid=10000&videoUrl="
+    },
+      {
+      "name": "极速4k6",
+      "type": 1,
+      "url": "http://154.8.225.238:9991//api/index?parsesId=6&appid=10000&videoUrl="
+    },
+      {
+      "name": "极速4k7",
+      "type": 1,
+      "url": "http://154.8.225.238:9991//api/index?parsesId=7&appid=10000&videoUrl="
     }
- 
   ],
   "doh": [],
   "hosts": [
